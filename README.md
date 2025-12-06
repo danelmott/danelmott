@@ -51,5 +51,5 @@
 
 ------
 
-[Danel_mott](https://github.com/BrantLauro)
+[Danel_mott](https://github.com/danelmott)
 
