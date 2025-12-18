@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajando en **Proyectos personales**
 
-- 🌱 actualmente aprendiendo **Next.js, Express, node.js**
+- 🌱 actualmente aprendiendo **Express, postgres**
 
 - 👯 Busco colaborar en proyectos **front-end y back-end**
 
