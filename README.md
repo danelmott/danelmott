@@ -41,7 +41,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> 
   </a>
     <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://images.icon-icons.com/2148/PNG/512/nextjs_icon_132160.png "alt="git" width="40" height="40"/> 
+    <img src="https://images.icon-icons.com/2148/PNG/512/nextjs_icon_132160.svg "alt="git" width="40" height="40"/> 
   </a>
   
 </p>
